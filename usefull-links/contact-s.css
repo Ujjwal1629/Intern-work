@@ -1,0 +1,29 @@
+.row {
+  margin-top: 70px;
+  width: 100px;
+  font-size: 10px;
+  color: #fff;
+  display: contents;
+}
+.contact {
+  margin-left: 70px;
+}
+.btn {
+  margin-top: 50px;
+}
+.input-1 {
+  display: inline-grid;
+}
+.input {
+  width: 300px;
+  height: 30px;
+  margin-top: 20px;
+}
+.message {
+  width: 300px;
+  height: 150px;
+  margin-top: 20px;
+}
+.submit {
+  margin-top: 20px;
+}
