@@ -1164,7 +1164,6 @@ FOOTER section
   .footer-container {
     height: 100vh;
     flex-direction: column;
-    justify-content: space-between;
     margin-top: 50px;
   }
   .footer-heading {
@@ -1181,7 +1180,6 @@ FOOTER section
   .footer-container {
     height: 100vh;
     flex-direction: column;
-    justify-content: space-between;
     margin-top: 50px;
   }
   .footer-heading {
